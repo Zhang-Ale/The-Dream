@@ -3,7 +3,7 @@
 **Dev:** <br>
 *Hongcheng Zhang<br>
 
-**Name:** <br>
+**Game name:** <br>
 *The Dream<br>
 
 # How to play 
