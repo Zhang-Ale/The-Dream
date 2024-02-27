@@ -1,4 +1,4 @@
-# GameTheDream
+# GameTheDream (complete game)
 
 **Dev:** <br>
 *Hongcheng Zhang<br>
